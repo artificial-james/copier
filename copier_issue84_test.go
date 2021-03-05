@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/jinzhu/copier"
+	"github.com/artificial-james/copier"
 )
 
 type Embedded struct {
